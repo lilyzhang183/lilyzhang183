@@ -172,19 +172,6 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  - _pages/profiles.md
-  - _pages/books.md        # common
-  - _pages/bookshelf.md    # some forks use this name
-  - _books/                # hides bookshelf items/collection
-  - _pages/dropdown.md
-  - _posts/
-  - _pages/blog.md
-  # publications
-  - _bibliography/
-  - _pages/publications.md
-  # repositories
-  - _pages/repositories.md
-  #
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -199,7 +186,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
