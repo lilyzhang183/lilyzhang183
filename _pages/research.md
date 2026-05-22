@@ -11,3 +11,7 @@ My main interests are noncommutative geometry and Poisson geometry.
 On the *noncommutative geometry* side, I am interested in higher index theory and its interactions with K-theory, KK-theory, operator algebras, large-scale geometry, the coarse Baum–Connes conjecture, etc. On the *Poisson geometry* side, I am interested in Lie groupoids, Lie algebroids, singular foliations, and related higher structures.
 
 Sometimes they overlap.
+
+#### Master's thesis
+
+[*A Generalization of Molino's Theory to Riemannian Groupoids*]({{ '/assets/A%20Generalization%20of%20Molinos%20Theory%20to%20Riemannian%20Groupoids.pdf' | relative_url }}), Washington University in St. Louis, advised by Xiang Tang.
