@@ -26,4 +26,4 @@ Sometimes they overlap.
 
 [*A Discussion on Analytic Web Geometry*]({{ '/assets/A%20Discussion%20on%20Analytic%20Web%20Geometry.pdf' | relative_url }}), written for a graduate algebraic geometry course at Washington University in St. Louis.
 
-[*Grassmannian, Flag, and Schubert Varieties*]({{ '/assets/Grassmannian,%20Flag,%20and%20Schubert%20Varieties.pdf' | relative_url }}), notes for a talk in the graduate symmetric function course at Washington University in St. Louis.
+[*Grassmannian, Flag, and Schubert Varieties*]({{ '/assets/Grassmannian,%20Flag,%20and%20Schubert%20Varieties.pdf' | relative_url }}), notes for a talk in the graduate course "Topics in Combinatorics: Symmetric Functions" at Washington University in St. Louis.
