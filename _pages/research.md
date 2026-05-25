@@ -12,6 +12,12 @@ On the *noncommutative geometry* side, I am interested in higher index theory an
 
 Sometimes they overlap.
 
+#### Work in progress
+
+*Explicit generators for $$K_*(C^*(\mathbb{R}^n))$$ and applications to algebraic K-theory*, in preparation.
+
+*Molino's Theory for Proper Riemannian Groupoids*, in preparation.
+
 #### Master's thesis
 
 [*A Generalization of Molino's Theory to Riemannian Groupoids*]({{ '/assets/A%20Generalization%20of%20Molinos%20Theory%20to%20Riemannian%20Groupoids.pdf' | relative_url }}), Washington University in St. Louis, advised by Xiang Tang.
