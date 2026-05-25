@@ -8,7 +8,7 @@ nav_order: 3
 
 My main interests are noncommutative geometry and Poisson geometry.
 
-On the *noncommutative geometry* side, I am interested in higher index theory and its interactions with K-theory, KK-theory, operator algebras, large-scale geometry, the coarse Baum–Connes conjecture, etc. On the *Poisson geometry* side, I am interested in Lie groupoids, Lie algebroids, singular foliations, and related higher structures.
+On the *noncommutative geometry* side, I work on higher index theory and its interactions with K-theory, operator algebras, and the coarse Baum–Connes conjecture. On the *Poisson geometry* side, I study Lie groupoids, Lie algebroids, singular foliations, and related higher structures.
 
 Sometimes they overlap.
 
@@ -24,8 +24,8 @@ Sometimes they overlap.
 
 #### Expository writing and notes
 
-[*A Discussion on Analytic Web Geometry*]({{ '/assets/A%20Discussion%20on%20Analytic%20Web%20Geometry.pdf' | relative_url }}), written for a graduate algebraic geometry course at Washington University in St. Louis.
+[*A Discussion on Analytic Web Geometry*]({{ '/assets/A%20Discussion%20on%20Analytic%20Web%20Geometry.pdf' | relative_url }}), written for a graduate algebraic geometry course.
 
-[*The Atiyah–Hirzebruch Vanishing Theorem*]({{ '/assets/The%20Atiyah-Hirzebruch%20Vanishing%20Theorem.pdf' | relative_url }}), notes for a talk in the Noncommutative Geometry Seminar at Washington University in St. Louis.
+[*The Atiyah–Hirzebruch Vanishing Theorem*]({{ '/assets/The%20Atiyah-Hirzebruch%20Vanishing%20Theorem.pdf' | relative_url }}), notes for a talk in the Noncommutative Geometry Seminar.
 
-[*Grassmannian, Flag, and Schubert Varieties*]({{ '/assets/Grassmannian,%20Flag,%20and%20Schubert%20Varieties.pdf' | relative_url }}), notes for a talk in the graduate course "Topics in Combinatorics: Symmetric Functions" at Washington University in St. Louis.
+[*Grassmannian, Flag, and Schubert Varieties*]({{ '/assets/Grassmannian,%20Flag,%20and%20Schubert%20Varieties.pdf' | relative_url }}), notes for a talk in the graduate course "Topics in Combinatorics: Symmetric Functions".
