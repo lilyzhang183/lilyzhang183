@@ -26,6 +26,8 @@ Sometimes they overlap.
 
 *(The writings below are broadly related to geometry. Some are informal notes and may not have been fully checked.)*
 
+[*K-theory of the Roe algebra*]({{ '/assets/K-theory%20of%20the%20Roe%20algebra.pdf' | relative_url }}), a working note.
+
 [*A Discussion on Analytic Web Geometry*]({{ '/assets/A%20Discussion%20on%20Analytic%20Web%20Geometry.pdf' | relative_url }}), written for a graduate algebraic geometry course.
 
 [*Crossed Products, Groupoids, and the Irrational Rotation Algebra*]({{ '/assets/cross%20product.pdf' | relative_url }}), study notes.
