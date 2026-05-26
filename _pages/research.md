@@ -28,4 +28,6 @@ Sometimes they overlap.
 
 [*The Atiyah–Hirzebruch Vanishing Theorem*]({{ '/assets/The%20Atiyah-Hirzebruch%20Vanishing%20Theorem.pdf' | relative_url }}), notes for a talk in the Noncommutative Geometry Seminar.
 
+[*Haefliger's Theorem and Novikov's Theorem in Codimension 1*]({{ '/assets/Haefligers%20Theorem%20and%20Novikovs%20Theorem%20in%20Codimension%201.pdf' | relative_url }}), notes for a talk in the Szegő Seminar, the graduate student seminar.
+
 [*Grassmannian, Flag, and Schubert Varieties*]({{ '/assets/Grassmannian,%20Flag,%20and%20Schubert%20Varieties.pdf' | relative_url }}), notes for a talk in the graduate course "Topics in Combinatorics: Symmetric Functions".
