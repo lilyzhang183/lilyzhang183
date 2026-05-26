@@ -24,6 +24,8 @@ Sometimes they overlap.
 
 #### Expository writing and notes
 
+*The notes below are broadly related to geometry. Some are informal study notes and have not been fully checked.*
+
 [*A Discussion on Analytic Web Geometry*]({{ '/assets/A%20Discussion%20on%20Analytic%20Web%20Geometry.pdf' | relative_url }}), written for a graduate algebraic geometry course.
 
 [*Crossed Products and the Irrational Rotation Algebra*]({{ '/assets/cross%20product.pdf' | relative_url }}), study notes.
