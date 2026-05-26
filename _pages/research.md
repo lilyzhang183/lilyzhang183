@@ -26,7 +26,11 @@ Sometimes they overlap.
 
 [*A Discussion on Analytic Web Geometry*]({{ '/assets/A%20Discussion%20on%20Analytic%20Web%20Geometry.pdf' | relative_url }}), written for a graduate algebraic geometry course.
 
+[*Crossed Products and the Irrational Rotation Algebra*]({{ '/assets/cross%20product.pdf' | relative_url }}), study notes.
+
 [*The Atiyah–Hirzebruch Vanishing Theorem*]({{ '/assets/The%20Atiyah-Hirzebruch%20Vanishing%20Theorem.pdf' | relative_url }}), notes for a talk in the Noncommutative Geometry Seminar.
+
+[*Morse Homology and Instanton Floer Homology*]({{ '/assets/gauge_theory.pdf' | relative_url }}), notes from two short talks in a graduate Gauge Theory course.
 
 [*Haefliger's Theorem and Novikov's Theorem in Codimension 1*]({{ '/assets/Haefligers%20Theorem%20and%20Novikovs%20Theorem%20in%20Codimension%201.pdf' | relative_url }}), notes for a talk in the Szegő Seminar, the graduate student seminar.
 
