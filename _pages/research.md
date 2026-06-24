@@ -12,7 +12,7 @@ On the *noncommutative geometry* side, I work on higher index theory and its int
 
 Sometimes they overlap.
 
-#### Work in progress
+#### Papers in progress
 
 *Explicit K-theory and K-homology generators for the Roe algebra of $$\mathbb{R}^n$$, with applications to algebraic K-theory and the Novikov conjecture*, in preparation.
 
