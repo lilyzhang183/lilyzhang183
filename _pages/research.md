@@ -14,9 +14,11 @@ Sometimes they overlap.
 
 #### Work in progress
 
-*Explicit generators for $$K_*(C^*(\mathbb{R}^n))$$ and applications to algebraic K-theory*, in preparation.
+*Explicit generators for $$K_*(C^*(\mathbb{R}^n))$$, with applications to algebraic K-theory and the Novikov conjecture*, in preparation.
 
-*Molino's Theory for Proper Riemannian Groupoids*, in preparation.
+*A generalization of Molino's theory to Riemannian groupoids*, in preparation.
+
+*Normal quotients and basic cohomology of blow-ups of proper Lie groupoids*, in preparation.
 
 #### Master's thesis
 
