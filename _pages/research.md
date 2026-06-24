@@ -14,7 +14,7 @@ Sometimes they overlap.
 
 #### Work in progress
 
-*Explicit generators for $$K_*(C^*(\mathbb{R}^n))$$, with applications to algebraic K-theory and the Novikov conjecture*, in preparation.
+*Explicit K-theory and K-homology generators for the Roe algebra of $$\mathbb{R}^n$$, with applications to algebraic K-theory and the Novikov conjecture*, in preparation.
 
 *A generalization of Molino's theory to Riemannian groupoids*, in preparation.
 
