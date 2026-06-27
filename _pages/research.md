@@ -14,7 +14,7 @@ Sometimes they overlap.
 
 #### Papers in progress
 
-*Explicit K-theory and K-homology generators for the Roe algebra of $$\mathbb{R}^n$$, with applications to algebraic K-theory and the Novikov conjecture*, in preparation.
+*Explicit representatives for K-theory classes of Roe and localization algebras of Euclidean spaces*, in preparation.
 
 *A generalization of Molino's theory to Riemannian groupoids*, in preparation.
 
