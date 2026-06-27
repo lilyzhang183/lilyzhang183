@@ -20,3 +20,5 @@ nav_order: 6
 ##### [Ross Mathematics Program](https://rossprogram.org/)
 
 - **Junior Counselor** Jun 2020–Aug 2020
+
+(I first attended Ross as a first-year participant in Summer 2018.)
