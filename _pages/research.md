@@ -2,8 +2,6 @@
 layout: page
 title: research
 permalink: /research/
-description: "Research interests and notes of Lily Zhang in noncommutative geometry, Poisson geometry, higher index theory, operator algebras, K-theory, Lie groupoids, and Lie algebroids."
-keywords: "Lily Zhang, research, noncommutative geometry, Poisson geometry, higher index theory, K-theory, operator algebras, coarse Baum-Connes conjecture, Lie groupoids, Lie algebroids"
 nav: true
 nav_order: 3
 ---
@@ -32,7 +30,7 @@ Sometimes they overlap.
 
 [*K-theory of the Roe algebra*]({{ '/assets/K-theory%20of%20the%20Roe%20algebra.pdf' | relative_url }}), a working note.
 
-[*Tomita–Takesaki Theory*]({{ '/assets/tomita_takesaki.pdf' | relative_url }}), notes from the Groundwork for Operator Algebras Lecture Series, given by Professor Brent Nelson.
+[*Tomita–Takesaki Theory*]({{ '/assets/tomita_takesaki.pdf' | relative_url }}), notes from the Groundwork for Operator Algebras Lecture Series, given by Brent Nelson.
 
 [*A Discussion on Analytic Web Geometry*]({{ '/assets/A%20Discussion%20on%20Analytic%20Web%20Geometry.pdf' | relative_url }}), written for a graduate algebraic geometry course.
 

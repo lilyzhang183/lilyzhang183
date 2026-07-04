@@ -2,8 +2,6 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: "Teaching and mentoring experience of Lily Zhang in mathematics."
-keywords: "Lily Zhang, teaching, mathematics, Texas A&M University, Washington University in St. Louis, Macalester College, Ross Mathematics Program"
 nav: true
 nav_order: 6
 ---
