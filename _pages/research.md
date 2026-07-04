@@ -40,7 +40,7 @@ Sometimes they overlap.
 
 [*The Atiyah–Hirzebruch Vanishing Theorem*]({{ '/assets/The%20Atiyah-Hirzebruch%20Vanishing%20Theorem.pdf' | relative_url }}), notes for a talk in the Noncommutative Geometry Seminar.
 
-[*Admissible \(A_p\) Weights on Harmonic NA Groups*]({{ '/assets/Admissible%20Ap%20Weights%20on%20Harmonic%20NA%20Groups.pdf' | relative_url }}), notes for a talk in a graduate harmonic analysis course.
+[*Admissible $$A_p$$ Weights on Harmonic NA Groups*]({{ '/assets/Admissible%20Ap%20Weights%20on%20Harmonic%20NA%20Groups.pdf' | relative_url }}), notes for a talk in a graduate harmonic analysis course.
 
 [*Morse Homology and Instanton Floer Homology*]({{ '/assets/gauge_theory.pdf' | relative_url }}), notes from two short talks in a graduate Gauge Theory course.
 
