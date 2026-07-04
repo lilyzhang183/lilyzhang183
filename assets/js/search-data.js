@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "",
+          description: "Teaching and mentoring experience of Lily Zhang in mathematics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
