@@ -2,6 +2,8 @@
 layout: default
 permalink: /cv/
 title: cv
+description: "Curriculum vitae of Lily Zhang."
+keywords: "Lily Zhang, CV, curriculum vitae, mathematics, Texas A&M University"
 nav: true
 nav_order: 5
 ---
