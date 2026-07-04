@@ -32,6 +32,8 @@ Sometimes they overlap.
 
 [*Tomita–Takesaki Theory*]({{ '/assets/tomita_takesaki.pdf' | relative_url }}), notes from the Groundwork for Operator Algebras Lecture Series, given by Brent Nelson.
 
+[*Subfactors*]({{ '/assets/Subfactors.pdf' | relative_url }}), notes from a special lecture at the Groundwork for Operator Algebras Lecture Series, given by Emily Peters.
+
 [*A Discussion on Analytic Web Geometry*]({{ '/assets/A%20Discussion%20on%20Analytic%20Web%20Geometry.pdf' | relative_url }}), written for a graduate algebraic geometry course.
 
 [*Crossed Products, Groupoids, and the Irrational Rotation Algebra*]({{ '/assets/cross%20product.pdf' | relative_url }}), study notes.
