@@ -30,7 +30,7 @@ Sometimes they overlap.
 
 [*K-theory of the Roe algebra*]({{ '/assets/K-theory%20of%20the%20Roe%20algebra.pdf' | relative_url }}), a working note.
 
-[*Tomita–Takesaki Theory*]({{ '/assets/tomita_takesaki.pdf' | relative_url }}), notes from the Groundwork for Operator Algebras Lecture Series, given by Brent Nelson.
+[*Tomita–Takesaki Theory*]({{ '/assets/tomita_takesaki.pdf' | relative_url }}), notes from the Groundwork for Operator Algebras Lecture Series, given by Professor Brent Nelson.
 
 [*A Discussion on Analytic Web Geometry*]({{ '/assets/A%20Discussion%20on%20Analytic%20Web%20Geometry.pdf' | relative_url }}), written for a graduate algebraic geometry course.
 
@@ -38,7 +38,7 @@ Sometimes they overlap.
 
 [*The Atiyah–Hirzebruch Vanishing Theorem*]({{ '/assets/The%20Atiyah-Hirzebruch%20Vanishing%20Theorem.pdf' | relative_url }}), notes for a talk in the Noncommutative Geometry Seminar.
 
-[*Admissible $$A_p$$ Weights on Harmonic NA Groups*]({{ '/assets/Admissible%20Ap%20Weights%20on%20Harmonic%20NA%20Groups.pdf' | relative_url }}), notes for a talk in a graduate harmonic analysis course.
+[*Admissible \(A_p\) Weights on Harmonic NA Groups*]({{ '/assets/Admissible%20Ap%20Weights%20on%20Harmonic%20NA%20Groups.pdf' | relative_url }}), notes for a talk in a graduate harmonic analysis course.
 
 [*Morse Homology and Instanton Floer Homology*]({{ '/assets/gauge_theory.pdf' | relative_url }}), notes from two short talks in a graduate Gauge Theory course.
 
