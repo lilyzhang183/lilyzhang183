@@ -2,6 +2,8 @@
 layout: page
 title: research
 permalink: /research/
+description: "Research interests and notes of Lily Zhang in noncommutative geometry, Poisson geometry, higher index theory, operator algebras, K-theory, Lie groupoids, and Lie algebroids."
+keywords: "Lily Zhang, research, noncommutative geometry, Poisson geometry, higher index theory, K-theory, operator algebras, coarse Baum-Connes conjecture, Lie groupoids, Lie algebroids"
 nav: true
 nav_order: 3
 ---
