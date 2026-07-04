@@ -11,21 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Research interests and notes of Lily Zhang in noncommutative geometry, Poisson geometry, higher index theory, operator algebras, K-theory, Lie groupoids, and Lie algebroids.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Curriculum vitae of Lily Zhang.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching and mentoring experience of Lily Zhang in mathematics.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
