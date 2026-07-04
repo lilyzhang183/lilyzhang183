@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-service",
           title: "service",
-          description: "Department service and outreach activities of Lily Zhang.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/service/";
