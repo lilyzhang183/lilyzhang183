@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+description: "Personal website of Lily Zhang, a PhD student in mathematics at Texas A&M University."
+keywords: "Lily Zhang, mathematics, Texas A&M University, noncommutative geometry, Poisson geometry"
 subtitle: <a href='https://artsci.tamu.edu/mathematics/index.html'>Department of Mathematics</a>, Texas A&M University
 
 profile:
