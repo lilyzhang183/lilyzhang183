@@ -2,6 +2,8 @@
 layout: page
 permalink: /service/
 title: service
+description: "Department service and outreach activities of Lily Zhang."
+keywords: "Lily Zhang, service, outreach, Szego Seminar, Association for Women in Mathematics, Washington University Math Circle"
 nav: true
 nav_order: 7
 ---
