@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "",
+          description: "Research interests and notes of Lily Zhang in noncommutative geometry, Poisson geometry, higher index theory, operator algebras, K-theory, Lie groupoids, and Lie algebroids.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
