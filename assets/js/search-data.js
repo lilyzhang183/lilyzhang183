@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "Curriculum vitae of Lily Zhang.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
