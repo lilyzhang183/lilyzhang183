@@ -20,6 +20,8 @@ Sometimes they overlap.
 
 *Normal quotients and basic cohomology of blow-ups of proper Lie groupoids*, in preparation.
 
+*Linear holonomy and linearization of singular foliations*, in preparation.
+
 #### Master's thesis
 
 [*A Generalization of Molino's Theory to Riemannian Groupoids*]({{ '/assets/A%20Generalization%20of%20Molinos%20Theory%20to%20Riemannian%20Groupoids.pdf' | relative_url }}), Washington University in St. Louis, advised by Xiang Tang.
