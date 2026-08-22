@@ -8,7 +8,7 @@ nav_order: 6
 
 ##### Texas A&M University, Department of Mathematics
 
-- **TA (Recitation Leader)** [MATH 150 - Functions, Trigonometry and Linear Systems](https://artsci.tamu.edu/mathematics/academics/courses/descriptions/math150.html), Fall 2026
+- **TA (Recitation Leader)** MATH 150 - Functions, Trigonometry and Linear Systems, Fall 2026
 
 ##### Washington University in St. Louis, Department of Mathematics
 
